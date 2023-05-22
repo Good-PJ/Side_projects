@@ -1,7 +1,8 @@
 # Project_01: telegramBot for autoposting of phrases from file 
 
 ## Contents
-1️⃣ [Description](https://github.com/Good-PJ/side_practice/blob/main/Project_01/README.md#Description)
+1️⃣ [Description](https://github.com/Good-PJ/Side_projects
+/blob/main/Project_01/README.md#Description)
 
 2️⃣ [Project objectives](https://github.com/Good-PJ/side_practice/blob/main/Project_01/README.md#Project-objectives)
 
