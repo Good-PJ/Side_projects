@@ -61,4 +61,5 @@ The txt file contains 500 phrases that should be posted in a Telegram channel in
 - 📌 solved the task of uploading files to GCP
 - 📌 experimented with the Ubuntu interface.
 
-:arrow_heading_up: [to contents](https://github.com/Good-PJ/Side_projects/blob/master/Side_practice_01/README.md#Contents)
+:arrow_heading_up: [to contents](https://github.com/Good-PJ/Side_projects
+/blob/main/Side_practice_01/README.md#Contents)
