@@ -1,0 +1,228 @@
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+<a data-id="861432" data-language="de" href="https://www.bundestag.de/en/members/wissler_janine-861432" title="Wissler, Janine">
+<div class="bt-teaser-person">
+<p class="bt-teaser-person-mitgliedschaft"></p>
+<div class="bt-bild-standard">
+<img alt="Janine Wissler" class="img-responsive" data-img-md-normal="https://www.bundestag.de/resource/image/867114/3x4/170/227/8fe935008dff13cbab55eeea1f5878dc/BC2DF194D9565EB477FE36AF2529379D/wissler_janine.jpg" data-img-md-retina="https://www.bundestag.de/resource/image/867114/3x4/340/454/8fe935008dff13cbab55eeea1f5878dc/EB68E3BAC944D6438FCADDC240C23E7A/wissler_janine.jpg" data-img-sm-normal="https://www.bundestag.de/resource/image/867114/3x4/162/216/8fe935008dff13cbab55eeea1f5878dc/0FAD6164AA92E70177BD5ED0D27FC2B4/wissler_janine.jpg" data-img-sm-retina="https://www.bundestag.de/resource/image/867114/3x4/324/432/8fe935008dff13cbab55eeea1f5878dc/5681205766CFE552E646071B07F626FA/wissler_janine.jpg" data-img-xs-normal="https://www.bundestag.de/resource/image/867114/3x4/113/151/8fe935008dff13cbab55eeea1f5878dc/3D59F3A7BFFC987E1A8221CF426E8BA4/wissler_janine.jpg" data-img-xs-retina="https://www.bundestag.de/resource/image/867114/3x4/226/302/8fe935008dff13cbab55eeea1f5878dc/78387F86B1A77CD3E42AE6DB80B43534/wissler_janine.jpg" src="https://www.bundestag.de/resource/blob/451034/0de3fbe475aa4210e50d850245ac3c47/Image3x4_small-data.png" title="Janine Wissler"/>
+<div class="bt-bild-info-text">
+<span class="bt-bild-info-button">
+<span class="sr-only">???label.copyright.toggle.screenreader.text???</span>
+<i aria-hidden="true" class="icon-copyright-1 bt-bild-copyright-open-icon"></i>
+<i aria-hidden="true" class="icon-copyright-schliessen bt-bild-copyright-close-icon"></i>
+</span>
+<p>
+        
+          
+          
+            Janine Wissler
+          
+        
+      </p>
+<p>© DIE LINKE. im Hessischen Landtag, CC BY 4.0/ Hanna Hoeft</p>
+</div>
+</div>
+<div class="bt-teaser-person-text">
+<h3>Wissler, Janine</h3>
+<p class="bt-person-fraktion">
+      The Left Party
+    </p>
+</div>
+</div>
+</a>
+<a data-id="858154" data-language="de" href="https://www.bundestag.de/en/members/witt_uwe-858154" title="Witt, Uwe">
+<div class="bt-teaser-person">
+<p class="bt-teaser-person-mitgliedschaft"></p>
+<div class="bt-bild-standard">
+<img alt="Uwe Witt" class="img-responsive" data-img-md-normal="https://www.bundestag.de/resource/image/864236/3x4/170/227/7dea10defad5334e613698e2b65d809d/7A5919669631712451E8BC9503299095/witt_uwe_gross.jpg" data-img-md-retina="https://www.bundestag.de/resource/image/864236/3x4/340/454/7dea10defad5334e613698e2b65d809d/F1C645517054AA7F32E896E55CA5841F/witt_uwe_gross.jpg" data-img-sm-normal="https://www.bundestag.de/resource/image/864236/3x4/162/216/7dea10defad5334e613698e2b65d809d/3AF5E576B57A7FFE65EAA6F0B9AE9DA4/witt_uwe_gross.jpg" data-img-sm-retina="https://www.bundestag.de/resource/image/864236/3x4/324/432/7dea10defad5334e613698e2b65d809d/4A7022B1A109964AEFEB75D59FF619C5/witt_uwe_gross.jpg" data-img-xs-normal="https://www.bundestag.de/resource/image/864236/3x4/113/151/7dea10defad5334e613698e2b65d809d/6887A3F2F9EE0F2E25D20BEE9240A261/witt_uwe_gross.jpg" data-img-xs-retina="https://www.bundestag.de/resource/image/864236/3x4/226/302/7dea10defad5334e613698e2b65d809d/3180D02E387386F57205357BDEA802DF/witt_uwe_gross.jpg" src="https://www.bundestag.de/resource/blob/451034/0de3fbe475aa4210e50d850245ac3c47/Image3x4_small-data.png" title="Uwe Witt"/>
+<div class="bt-bild-info-text">
+<span class="bt-bild-info-button">
+<span class="sr-only">???label.copyright.toggle.screenreader.text???</span>
+<i aria-hidden="true" class="icon-copyright-1 bt-bild-copyright-open-icon"></i>
+<i aria-hidden="true" class="icon-copyright-schliessen bt-bild-copyright-close-icon"></i>
+</span>
+<p>
+        
+          
+          
+            Uwe Witt
+          
+        
+      </p>
+<p>© Uwe Witt</p>
+</div>
+</div>
+<div class="bt-teaser-person-text">
+<h3>Witt, Uwe</h3>
+<p class="bt-person-fraktion">
+      Independent
+    </p>
+</div>
+</div>
+</a>
+<a data-id="860322" data-language="de" href="https://www.bundestag.de/en/members/wittmann_mechthilde-860322" title="Wittmann, Mechthilde">
+<div class="bt-teaser-person">
+<p class="bt-teaser-person-mitgliedschaft"></p>
+<div class="bt-bild-standard">
+<img alt="Mechthilde Wittmann" class="img-responsive" data-img-md-normal="https://www.bundestag.de/resource/image/862506/3x4/170/227/5e6e7a34bff4d3a7daa7a19ca9b3377c/EB6B7A1ED326206F6C85E3B0FEE18EE7/wittmann_mechthilde.jpg" data-img-md-retina="https://www.bundestag.de/resource/image/862506/3x4/340/454/5e6e7a34bff4d3a7daa7a19ca9b3377c/A43A5C6102DC40F13A069DBC63662DE6/wittmann_mechthilde.jpg" data-img-sm-normal="https://www.bundestag.de/resource/image/862506/3x4/162/216/5e6e7a34bff4d3a7daa7a19ca9b3377c/8392B759A80C7D1E8F0F97EFA019C0B4/wittmann_mechthilde.jpg" data-img-sm-retina="https://www.bundestag.de/resource/image/862506/3x4/324/432/5e6e7a34bff4d3a7daa7a19ca9b3377c/2DAE8A10FF59C159001D6AA14DE11494/wittmann_mechthilde.jpg" data-img-xs-normal="https://www.bundestag.de/resource/image/862506/3x4/113/151/5e6e7a34bff4d3a7daa7a19ca9b3377c/2CC59B31D9C9B70790F4E6B6E8F28D0D/wittmann_mechthilde.jpg" data-img-xs-retina="https://www.bundestag.de/resource/image/862506/3x4/226/302/5e6e7a34bff4d3a7daa7a19ca9b3377c/66B5B5F243E9080C968E9A2A2BAC8407/wittmann_mechthilde.jpg" src="https://www.bundestag.de/resource/blob/451034/0de3fbe475aa4210e50d850245ac3c47/Image3x4_small-data.png" title="Mechthilde Wittmann"/>
+<div class="bt-bild-info-text">
+<span class="bt-bild-info-button">
+<span class="sr-only">???label.copyright.toggle.screenreader.text???</span>
+<i aria-hidden="true" class="icon-copyright-1 bt-bild-copyright-open-icon"></i>
+<i aria-hidden="true" class="icon-copyright-schliessen bt-bild-copyright-close-icon"></i>
+</span>
+<p>
+        
+          
+          
+            Mechthilde Wittmann
+          
+        
+      </p>
+<p>© Mechthilde Wittmann/ Ralf Lienert</p>
+</div>
+</div>
+<div class="bt-teaser-person-text">
+<h3>Wittmann, Mechthilde</h3>
+<p class="bt-person-fraktion">
+      CDU/CSU
+    </p>
+</div>
+</div>
+</a>
+<a data-id="861474" data-language="de" href="https://www.bundestag.de/en/members/wollmann_herbert-861474" title="Wollmann, Dr. Herbert">
+<div class="bt-teaser-person">
+<p class="bt-teaser-person-mitgliedschaft"></p>
+<div class="bt-bild-standard">
+<img alt="Herbert Wollmann" class="img-responsive" data-img-md-normal="https://www.bundestag.de/resource/image/867454/3x4/170/227/2f5fb6b3cf4699e38d072c68a0ed4280/A6746F0EB00D511C3A09F22F734076B2/wollmann_herbert_bild.jpg" data-img-md-retina="https://www.bundestag.de/resource/image/867454/3x4/340/454/2f5fb6b3cf4699e38d072c68a0ed4280/00150CD76C68C3CDF5B10EE012038F63/wollmann_herbert_bild.jpg" data-img-sm-normal="https://www.bundestag.de/resource/image/867454/3x4/162/216/2f5fb6b3cf4699e38d072c68a0ed4280/058D5183063FDECE2FE201934BC4E113/wollmann_herbert_bild.jpg" data-img-sm-retina="https://www.bundestag.de/resource/image/867454/3x4/324/432/2f5fb6b3cf4699e38d072c68a0ed4280/4219A40FEAC4BA8A7293E047C8E32C4D/wollmann_herbert_bild.jpg" data-img-xs-normal="https://www.bundestag.de/resource/image/867454/3x4/113/151/2f5fb6b3cf4699e38d072c68a0ed4280/48EBCB60E3902355DAD4E60E66D1ACB8/wollmann_herbert_bild.jpg" data-img-xs-retina="https://www.bundestag.de/resource/image/867454/3x4/226/302/2f5fb6b3cf4699e38d072c68a0ed4280/7A304761E2E4A2999856681AA1B428DA/wollmann_herbert_bild.jpg" src="https://www.bundestag.de/resource/blob/451034/0de3fbe475aa4210e50d850245ac3c47/Image3x4_small-data.png" title="Herbert Wollmann"/>
+<div class="bt-bild-info-text">
+<span class="bt-bild-info-button">
+<span class="sr-only">???label.copyright.toggle.screenreader.text???</span>
+<i aria-hidden="true" class="icon-copyright-1 bt-bild-copyright-open-icon"></i>
+<i aria-hidden="true" class="icon-copyright-schliessen bt-bild-copyright-close-icon"></i>
+</span>
+<p>
+        
+          
+          
+            Herbert Wollmann
+          
+        
+      </p>
+<p>© DBT/ Stella von Saldern</p>
+</div>
+</div>
+<div class="bt-teaser-person-text">
+<h3>Wollmann, Dr. Herbert</h3>
+<p class="bt-person-fraktion">
+      SPD
+    </p>
+</div>
+</div>
+</a>
+<a data-id="860802" data-language="de" href="https://www.bundestag.de/en/members/wulf_mareike-860802" title="Wulf, Mareike Lotte">
+<div class="bt-teaser-person">
+<p class="bt-teaser-person-mitgliedschaft"></p>
+<div class="bt-bild-standard">
+<img alt="Mareike Lotte Wulf" class="img-responsive" data-img-md-normal="https://www.bundestag.de/resource/image/862510/3x4/170/227/845c4b15868c285de42be887558d1b3/3C4234DB2524029E1077E2E60FE78711/wulf_mareike.jpg" data-img-md-retina="https://www.bundestag.de/resource/image/862510/3x4/340/454/845c4b15868c285de42be887558d1b3/C4CB7BCE1B286EA5D8B223D4D229EB22/wulf_mareike.jpg" data-img-sm-normal="https://www.bundestag.de/resource/image/862510/3x4/162/216/845c4b15868c285de42be887558d1b3/D89CE7149A1985205078EB34C9F7F364/wulf_mareike.jpg" data-img-sm-retina="https://www.bundestag.de/resource/image/862510/3x4/324/432/845c4b15868c285de42be887558d1b3/F994D8B4EAC06E209F964B3C39179AC7/wulf_mareike.jpg" data-img-xs-normal="https://www.bundestag.de/resource/image/862510/3x4/113/151/845c4b15868c285de42be887558d1b3/695EDC96C119279FB05FE81E17B61808/wulf_mareike.jpg" data-img-xs-retina="https://www.bundestag.de/resource/image/862510/3x4/226/302/845c4b15868c285de42be887558d1b3/4146164F402750ACB38085F13FE92883/wulf_mareike.jpg" src="https://www.bundestag.de/resource/blob/451034/0de3fbe475aa4210e50d850245ac3c47/Image3x4_small-data.png" title="Mareike Lotte Wulf"/>
+<div class="bt-bild-info-text">
+<span class="bt-bild-info-button">
+<span class="sr-only">???label.copyright.toggle.screenreader.text???</span>
+<i aria-hidden="true" class="icon-copyright-1 bt-bild-copyright-open-icon"></i>
+<i aria-hidden="true" class="icon-copyright-schliessen bt-bild-copyright-close-icon"></i>
+</span>
+<p>
+        
+          
+          
+            Mareike Lotte Wulf
+          
+        
+      </p>
+<p>© Chris Pfeffer/Chris Pfeffer</p>
+</div>
+</div>
+<div class="bt-teaser-person-text">
+<h3>Wulf, Mareike Lotte</h3>
+<p class="bt-person-fraktion">
+      CDU/CSU
+    </p>
+</div>
+</div>
+</a>
+<a data-id="861462" data-language="de" href="https://www.bundestag.de/en/members/wundrak_joachim-861462" title="Wundrak, Joachim">
+<div class="bt-teaser-person">
+<p class="bt-teaser-person-mitgliedschaft"></p>
+<div class="bt-bild-standard">
+<img alt="Joachim Wundrak" class="img-responsive" data-img-md-normal="https://www.bundestag.de/resource/image/873960/3x4/170/227/1779a384498b2eb1142123c2568664b2/11C226FA0F72AF76616624E8481946F8/wundrak_joachim.jpg" data-img-md-retina="https://www.bundestag.de/resource/image/873960/3x4/340/454/1779a384498b2eb1142123c2568664b2/5B6FCE10E8AFF46B66EEE87CD7A7BA2B/wundrak_joachim.jpg" data-img-sm-normal="https://www.bundestag.de/resource/image/873960/3x4/162/216/1779a384498b2eb1142123c2568664b2/D0B29B74A7C7B41771B94F9B8C6C2674/wundrak_joachim.jpg" data-img-sm-retina="https://www.bundestag.de/resource/image/873960/3x4/324/432/1779a384498b2eb1142123c2568664b2/3A5730A059B329CF3AE9FD79515E1A9A/wundrak_joachim.jpg" data-img-xs-normal="https://www.bundestag.de/resource/image/873960/3x4/113/151/1779a384498b2eb1142123c2568664b2/7876473C6FA393DBB33AA337CCD37A6C/wundrak_joachim.jpg" data-img-xs-retina="https://www.bundestag.de/resource/image/873960/3x4/226/302/1779a384498b2eb1142123c2568664b2/10AAEDF85DA4076B2E0ED326DF0DDE63/wundrak_joachim.jpg" src="https://www.bundestag.de/resource/blob/451034/0de3fbe475aa4210e50d850245ac3c47/Image3x4_small-data.png" title="Joachim Wundrak"/>
+<div class="bt-bild-info-text">
+<span class="bt-bild-info-button">
+<span class="sr-only">???label.copyright.toggle.screenreader.text???</span>
+<i aria-hidden="true" class="icon-copyright-1 bt-bild-copyright-open-icon"></i>
+<i aria-hidden="true" class="icon-copyright-schliessen bt-bild-copyright-close-icon"></i>
+</span>
+<p>
+        
+          
+          
+            Joachim Wundrak
+          
+        
+      </p>
+<p>© Joachim Wundrak/privat</p>
+</div>
+</div>
+<div class="bt-teaser-person-text">
+<h3>Wundrak, Joachim</h3>
+<p class="bt-person-fraktion">
+      AfD
+    </p>
+</div>
+</div>
+</a>
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
