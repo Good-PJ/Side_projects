@@ -34,7 +34,7 @@ The txt file contains 500 phrases that should be posted in a Telegram channel in
 
 - 🟩 Create a code for a bot with telebot, random, schedule and time [data.py](https://github.com/Good-PJ/Side_projects/blob/master/Side_practice_01/data.py)
 - 🟩 Parsing phrases from a website. [parce.py](https://github.com/Good-PJ/Side_projects/blob/master/Side_practice_01/Parce.py)
-- ✏️ It was possible to copy them manually, but I decided to write a code for practice that would gather, format, and save the text.
+  - ✏️ It was possible to copy them manually, but I decided to write a code for practice that would gather, format, and save the text.
 - 🟩 Launching via Google Cloud service. I used articles from the web on russian and english. 
    I used the article, followed the steps since I have only minimal knowledge of Ubuntu terminal 
    
