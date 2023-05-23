@@ -32,11 +32,14 @@
 ### Problem
 :interrobang: The HTML code of the website differed from what was described in the video. I analyzed it and made the necessary modifications, which made the script functional.
 
+:arrow_heading_up: [to contents](https://github.com/Good-PJ/Side_projects/blob/master/Side_projects_02_Scraping/README.md#Contents)
 
 ### Results
 :white_check_mark: The data scraping code was written with modifications.
 
 :white_check_mark: The issues that arose during the code development have been successfully resolved.
+
+:arrow_heading_up: [to contents](https://github.com/Good-PJ/Side_projects/blob/master/Side_projects_02_Scraping/README.md#Contents)
 
 ### Thanks
 :hash: The code idea and its implementation belong entirely to the [PythonToday]
@@ -44,3 +47,5 @@
 
 :pray: [PythonToday]
 (https://github.com/pythontoday) Thanks for great experience!
+
+:arrow_heading_up: [to contents](https://github.com/Good-PJ/Side_projects/blob/master/Side_projects_02_Scraping/README.md#Contents)
