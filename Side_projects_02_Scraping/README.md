@@ -14,8 +14,7 @@
 ### Description
 * web scraping based requests and bs4
 
-:exclamation: practice of a real task discussed on the channel  [PythonToday]
-(https://github.com/pythontoday)
+:exclamation: practice of a real task discussed on the channel  [PythonToday](https://github.com/pythontoday)
 
 :arrow_heading_up: [to contents](https://github.com/Good-PJ/Side_projects/blob/master/Side_projects_02_Scraping/README.md#Contents)
 
@@ -42,10 +41,8 @@
 :arrow_heading_up: [to contents](https://github.com/Good-PJ/Side_projects/blob/master/Side_projects_02_Scraping/README.md#Contents)
 
 ### Thanks
-:hash: The code idea and its implementation belong entirely to the [PythonToday]
-(https://github.com/pythontoday). I used this information for coding practice and made only minor modifications
+:hash: The code idea and its implementation belong entirely to the [PythonToday](https://github.com/pythontoday). I used this information for coding practice and made only minor modifications
 
-:pray: [PythonToday]
-(https://github.com/pythontoday) Thanks for great experience!
+:pray: [PythonToday](https://github.com/pythontoday) Thanks for great experience!
 
 :arrow_heading_up: [to contents](https://github.com/Good-PJ/Side_projects/blob/master/Side_projects_02_Scraping/README.md#Contents)
