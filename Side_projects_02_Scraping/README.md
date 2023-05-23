@@ -7,6 +7,7 @@
 
 ### Description
 * web scraping based requests and bs4
+
 :grey_exclamation::grey_exclamation::grey_exclamation: practice of a real task discussed on the channel  [PythonToday]
 (https://github.com/pythontoday)
 
