@@ -41,7 +41,7 @@
 :arrow_heading_up: [to contents](https://github.com/Good-PJ/Side_projects/blob/master/Side_projects_02_Scraping/README.md#Contents)
 
 ### Thanks
-:hash: [PythonToday](https://github.com/pythontoday) owns the code idea and how it's done. I used he's information to practice coding and made small changes.
+:copyright: [PythonToday](https://github.com/pythontoday) owns the code idea and how it's done. I used he's information to practice coding and made small changes.
 
 :pray: [PythonToday](https://github.com/pythontoday) Thanks for great experience!
 
