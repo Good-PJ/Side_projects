@@ -39,7 +39,7 @@
 :white_check_mark: The issues that arose during the code development have been successfully resolved.
 
 ### Thanks
-:interrobang:The code idea and its implementation belong entirely to the [PythonToday]
+:hash: The code idea and its implementation belong entirely to the [PythonToday]
 (https://github.com/pythontoday). I used this information for coding practice and made only minor modifications
 
 :pray: [PythonToday]
